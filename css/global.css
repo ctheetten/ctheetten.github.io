@@ -1,0 +1,15 @@
+html {
+  font-family: 'Verdana';
+}
+
+body {
+  height: 100%;
+  color: #1A1919;
+  background-color: #EAECEE ;
+}
+
+.content {
+  max-width: 64rem;
+  margin-left: 25rem;
+  font-size: 1rem;
+}

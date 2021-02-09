@@ -1,0 +1,11 @@
+.post h1 {
+    color: #000;
+}
+
+.ul_blog {
+    list-style: square;
+}
+
+#date {
+    float: right;
+}

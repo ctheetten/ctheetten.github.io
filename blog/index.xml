@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on L&#39;odyssée d&#39;un bit</title>
+    <link>https://ctheetten.github.io/blog/</link>
+    <description>Recent content in Blog on L&#39;odyssée d&#39;un bit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Tue, 09 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ctheetten.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bienvenue</title>
+      <link>https://ctheetten.github.io/blog/bienvenue/</link>
+      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ctheetten.github.io/blog/bienvenue/</guid>
+      <description>Bienvenue.
+Ce blog traitera principalement des sujets suivants:
+ la programmation l&amp;rsquo;intelligence artificielle l&amp;rsquo;informatique théorique  J&#39;évoquerai également d&#39;autres sujets sur l&#39;actualité géopolitique, sociétale, culturelle, scientifique...Bonne lecture.</description>
+    </item>
+    
+  </channel>
+</rss>
